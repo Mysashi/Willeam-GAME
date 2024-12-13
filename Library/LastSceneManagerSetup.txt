@@ -1,0 +1,17 @@
+sceneSetups:
+- path: Assets/Scenes/floors/1st floor.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/Scenes/floors/2nd floor.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/floors/3rd floor.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/floors/4th floor.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
